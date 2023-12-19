@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AcademyApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademyApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.Domain/AcademyApp.Domain.csproj",
+      "msbuildProject": "../AcademyApp.Domain/AcademyApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AcademyApp.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/nasibikhtiyarli/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/AcademyApp.DataContex.csproj",
+      "projectName": "AcademyApp.DataContex",
+      "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/AcademyApp.DataContex.csproj",
+      "packagesPath": "/Users/nasibikhtiyarli/.nuget/packages/",
+      "outputPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nasibikhtiyarli/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Domain/AcademyApp.Domain.csproj": {
+              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Domain/AcademyApp.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

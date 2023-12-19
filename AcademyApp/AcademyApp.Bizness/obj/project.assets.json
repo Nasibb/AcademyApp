@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AcademyApp.DataContex/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AcademyApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AcademyApp.DataContex.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.DataContex.dll": {}
+        }
+      },
+      "AcademyApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademyApp.DataContex/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.DataContex/AcademyApp.DataContex.csproj",
+      "msbuildProject": "../AcademyApp.DataContex/AcademyApp.DataContex.csproj"
+    },
+    "AcademyApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.Domain/AcademyApp.Domain.csproj",
+      "msbuildProject": "../AcademyApp.Domain/AcademyApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AcademyApp.DataContex >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/nasibikhtiyarli/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/AcademyApp.Business.csproj",
+      "projectName": "AcademyApp.Business",
+      "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/AcademyApp.Business.csproj",
+      "packagesPath": "/Users/nasibikhtiyarli/.nuget/packages/",
+      "outputPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nasibikhtiyarli/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/AcademyApp.DataContex.csproj": {
+              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/AcademyApp.DataContex.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

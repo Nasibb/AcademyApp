@@ -1,5 +1,33 @@
 ﻿<Properties StartupConfiguration="{EA7C9EF9-3E6E-451A-AF7A-0C2273EF9E40}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AcademyApp.Business FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AcademyApp.DataContex/DbContex.cs">
+    <Files>
+      <File FileName="AcademyApp/Program.cs" Line="4" Column="1" />
+      <File FileName="AcademyApp.DataContex/DbContex.cs" Line="11" Column="1" />
+      <File FileName="AcademyApp.Domain/Models/Common/BaseEntity.cs" Line="9" Column="2" />
+      <File FileName="AcademyApp.Domain/Models/Student.cs" Line="10" Column="32" />
+      <File FileName="AcademyApp.Domain/Models/Group.cs" Line="10" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AcademyApp" expanded="True">
+            <Node name="AcademyApp.DataContex" selected="True" />
+            <Node name="AcademyApp.Domain" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Common" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.AcademyApp.Domain FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.AcademyApp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AcademyApp.DataContex FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AcademyApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
