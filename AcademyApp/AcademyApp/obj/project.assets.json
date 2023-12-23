@@ -1,11 +1,82 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "AcademyApp.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AcademyApp.DataContex": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AcademyApp.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Business.dll": {}
+        }
+      },
+      "AcademyApp.DataContex/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AcademyApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AcademyApp.DataContex.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.DataContex.dll": {}
+        }
+      },
+      "AcademyApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        }
+      },
+      "AcademyApp.Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AcademyApp.Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Helper.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AcademyApp.Business/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.Bizness/AcademyApp.Business.csproj",
+      "msbuildProject": "../AcademyApp.Bizness/AcademyApp.Business.csproj"
+    },
+    "AcademyApp.DataContex/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.DataContex/AcademyApp.DataContex.csproj",
+      "msbuildProject": "../AcademyApp.DataContex/AcademyApp.DataContex.csproj"
+    },
+    "AcademyApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.Domain/AcademyApp.Domain.csproj",
+      "msbuildProject": "../AcademyApp.Domain/AcademyApp.Domain.csproj"
+    },
+    "AcademyApp.Helper/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.Helper/AcademyApp.Helper.csproj",
+      "msbuildProject": "../AcademyApp.Helper/AcademyApp.Helper.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "AcademyApp.Business >= 1.0.0",
+      "AcademyApp.Helper >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/nasibikhtiyarli/.nuget/packages/": {}
@@ -26,12 +97,20 @@
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/AcademyApp.Business.csproj": {
+              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/AcademyApp.Business.csproj"
+            },
+            "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/AcademyApp.Helper.csproj": {
+              "projectPath": "/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/AcademyApp.Helper.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

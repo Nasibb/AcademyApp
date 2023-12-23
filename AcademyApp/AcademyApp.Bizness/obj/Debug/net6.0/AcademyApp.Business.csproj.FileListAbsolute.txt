@@ -1,0 +1,17 @@
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/bin/Debug/net6.0/AcademyApp.Business.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/bin/Debug/net6.0/AcademyApp.Business.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/bin/Debug/net6.0/AcademyApp.Business.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/bin/Debug/net6.0/AcademyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/bin/Debug/net6.0/AcademyApp.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/bin/Debug/net6.0/AcademyApp.DataContex.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/bin/Debug/net6.0/AcademyApp.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.csproj.CopyComplete
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/refint/AcademyApp.Business.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/AcademyApp.Business.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Bizness/obj/Debug/net6.0/ref/AcademyApp.Business.dll

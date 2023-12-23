@@ -1,0 +1,12 @@
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/bin/Debug/net6.0/AcademyApp.Helper.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/bin/Debug/net6.0/AcademyApp.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/bin/Debug/net6.0/AcademyApp.Helper.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/AcademyApp.Helper.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/AcademyApp.Helper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/AcademyApp.Helper.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/AcademyApp.Helper.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/AcademyApp.Helper.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/AcademyApp.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/refint/AcademyApp.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/AcademyApp.Helper.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.Helper/obj/Debug/net6.0/ref/AcademyApp.Helper.dll

@@ -13,3 +13,12 @@
 /Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/obj/Debug/net6.0/AcademyApp.pdb
 /Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/obj/Debug/net6.0/AcademyApp.genruntimeconfig.cache
 /Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/obj/Debug/net6.0/ref/AcademyApp.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.Business.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.Helper.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.Business.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.Helper.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.DataContex.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/bin/Debug/net6.0/AcademyApp.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp/obj/Debug/net6.0/AcademyApp.csproj.CopyComplete

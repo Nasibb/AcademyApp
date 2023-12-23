@@ -11,8 +11,8 @@ namespace AcademyApp.DataContex
 
 		static DbContex()
 		{
-			Students = new List<Student>();
-			Groups = new List<Group>();
+			Students = new ();
+			Groups = new ();
 		}
 	}
 

@@ -39,7 +39,7 @@ namespace AcademyApp.DataContex.Repositories
 
         }
 
-        public List<Group> GettAll(Predicate<Group> filter)
+        public List<Group> GetAll(Predicate<Group> filter)
         {
             return filter == null ? DbContex.Groups : DbContex.Groups.FindAll(filter);
 

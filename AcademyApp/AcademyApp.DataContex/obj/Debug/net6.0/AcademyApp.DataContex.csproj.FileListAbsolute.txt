@@ -1,0 +1,15 @@
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/bin/Debug/net6.0/AcademyApp.DataContex.deps.json
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/bin/Debug/net6.0/AcademyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/bin/Debug/net6.0/AcademyApp.DataContex.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/bin/Debug/net6.0/AcademyApp.Domain.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/bin/Debug/net6.0/AcademyApp.Domain.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.csproj.AssemblyReference.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.AssemblyInfoInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.AssemblyInfo.cs
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.csproj.CoreCompileInputs.cache
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.csproj.CopyComplete
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/refint/AcademyApp.DataContex.dll
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/AcademyApp.DataContex.pdb
+/Users/nasibikhtiyarli/Desktop/Projects/AcademyApp/AcademyApp/AcademyApp.DataContex/obj/Debug/net6.0/ref/AcademyApp.DataContex.dll

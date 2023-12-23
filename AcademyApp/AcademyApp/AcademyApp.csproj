@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AcademyApp.Bizness\AcademyApp.Business.csproj" />
+    <ProjectReference Include="..\AcademyApp.Helper\AcademyApp.Helper.csproj" />
+  </ItemGroup>
 </Project>
