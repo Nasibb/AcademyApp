@@ -36,18 +36,11 @@ namespace AcademyApp.DataContex.Repositories
         public Student Get(Predicate<Student> filter)
         {
             return DbContex.Students.Find(filter);
-
         }
 
-        public List<Student> GetAll(Predicate<Student> filter)
+        public List<Student> GetAll(Predicate<Student> filter=null)
         {
-            return filter == null ? DbContex.Students : DbContex.Students.FindAll(filter);
-            
-        }
-
-        public List<Student> GetAll()
-        {
-            throw new NotImplementedException();
+            return filter == null ? DbContex.Students : DbContex.Students.FindAll(filter);   
         }
 
         public bool Update(Student entity)

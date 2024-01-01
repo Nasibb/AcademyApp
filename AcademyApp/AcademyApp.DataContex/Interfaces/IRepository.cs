@@ -12,7 +12,8 @@ namespace AcademyApp.DataContex.Interfaces
 		bool Delete(T entity);
 
 		T Get(Predicate<T> filter);
-		List<T> GetAll(Predicate<T> filter);
+
+		List<T> GetAll(Predicate<T> filter=null);
 	}
 }
 
