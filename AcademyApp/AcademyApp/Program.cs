@@ -45,6 +45,16 @@ while (true)
                 }
 
                 break;
+            case (int)Menus.GetAllStudent:
+                break;
+            case (int)Menus.GetAllStudentWithName:
+                break;
+            case (int)Menus.GetStudentById:
+                break;
+            case (int)Menus.DeleteStudent:
+                break;
+            case (int)Menus.UpdateStudent:
+                break;
             default:
                 break;
         }
