@@ -38,7 +38,8 @@ namespace AcademyApp.Business.Services
 
         public List<Student> GetAll(string name)
         {
-            return _studentRepository.GetAll(s=>s.Name.ToLower()==name.ToLower());
+            return _studentRepository.
+                GetAll(s=>s.Name.ToLower()==name.ToLower());
         }
 
         public List<Student> GetAll(int age)

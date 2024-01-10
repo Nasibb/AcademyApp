@@ -9,6 +9,15 @@ namespace AcademyApp.Helper
 			Console.WriteLine(message);
 			Console.ResetColor();
 		}
+		public enum Menus
+		{
+            CreateStudent =1,
+            GetAllStudentWithName,
+            GetAllStudent,
+            GetStudentById,
+            DeleteStudent,
+            UpdateStudent,
+        }
 	}
 }
 

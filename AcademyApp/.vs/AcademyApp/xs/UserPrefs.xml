@@ -1,31 +1,36 @@
 ﻿<Properties StartupConfiguration="{EA7C9EF9-3E6E-451A-AF7A-0C2273EF9E40}|Default">
   <MonoDevelop.Ide.ItemProperties.AcademyApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AcademyApp.DataContex/Repositories/StudentRepository.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AcademyApp.Bizness/Interfaces/IGroup.cs">
     <Files>
-      <File FileName="AcademyApp/Program.cs" Line="8" Column="34" />
-      <File FileName="AcademyApp.DataContex/Interfaces/IRepository.cs" Line="1" Column="1" />
-      <File FileName="AcademyApp.DataContex/Repositories/GroupRepository.cs" Line="1" Column="1" />
-      <File FileName="AcademyApp.DataContex/Repositories/StudentRepository.cs" Line="44" Column="10" />
+      <File FileName="AcademyApp/Program.cs" />
+      <File FileName="AcademyApp.Bizness/Interfaces/IStudent.cs" />
+      <File FileName="AcademyApp.Bizness/Services/StudentService.cs" Line="1" Column="1" />
+      <File FileName="AcademyApp.DataContex/Repositories/StudentRepository.cs" Line="15" Column="14" />
+      <File FileName="AcademyApp.DataContex/Interfaces/IRepository.cs" />
+      <File FileName="AcademyApp.DataContex/Repositories/GroupRepository.cs" />
+      <File FileName="AcademyApp.DataContex/DbContex.cs" />
+      <File FileName="AcademyApp.Bizness/Interfaces/IGroup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AcademyApp">
-            <Node name="AcademyApp.DataContex" expanded="True">
-              <Node name="Interfaces" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="StudentRepository.cs" selected="True" />
+            <Node name="AcademyApp" expanded="True" />
+            <Node name="AcademyApp.Business" expanded="True">
+              <Node name="Interfaces" expanded="True">
+                <Node name="IGroup.cs" selected="True" />
               </Node>
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
